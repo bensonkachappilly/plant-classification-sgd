@@ -1,0 +1,10 @@
+name: mlplants
+channels:
+  - defaults
+dependencies:
+  - pandas=2.2
+  - scikit-learn=1.5
+  - numpy=1.26
+  - python=3.11
+  - matplotlib=3.10
+prefix: /opt/anaconda3/envs/mlplants
