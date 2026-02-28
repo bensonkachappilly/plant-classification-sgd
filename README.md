@@ -64,16 +64,16 @@ Model performance was evaluated using:
 - Model performance demonstrates the effectiveness of linear classifiers for structured tabular data.
 
 ### Feature Distribution (scatter plot)
-![Scatter Plot](results/scatter_plot.png)
+![Scatter Plot](Results/scatter_plot.png)
 
 ### Confusion matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](Results/confusion_matrix.png)
 
 ### ROC curve
-![ROC Curve](results/ROC_curve.png)
+![ROC Curve](Results/ROC_curve.png)
 
 ### Visualization of decision boundaries 
-![Decision Boundary](results/decision_boundaries.png)
+![Decision Boundary](Results/decision_boundaries.png)
 
 ## Tech Stack
 - Python  
