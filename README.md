@@ -94,6 +94,7 @@ conda activate mlplants
 ### 2. Ensure that Plants_Dataset.csv is present is in the current working directory
 
 ### 3. Run the notebook
+Open:Stochastic Gradient Descent woirkflow to classify the plants data.ipynb
 
 ## Future Improvements 
 - Perform hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
